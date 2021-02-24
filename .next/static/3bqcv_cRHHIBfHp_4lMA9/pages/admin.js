@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[20],{Egov:function(n,t,e){(window.__NEXT_P=window.__NEXT_P||[]).push(["/admin",function(){return e("hp3m")}])},hp3m:function(n,t,e){"use strict";e.r(t);var o=e("q1tI"),i=e.n(o),w=(e("YFqc"),e("wZkr"),e("dk5U")),a=e("wFql"),c=i.a.createElement;a.a.Title;t.default=function(){return c(w.a,null,c("div",{className:"content"}))}}},[["Egov",1,2,3,5,0,4,6]]]);
+//# sourceMappingURL=admin.js.map

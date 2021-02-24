@@ -3908,7 +3908,7 @@ const checkPermission = (permissions, userPermissions, showError = false) => {
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! E:\DATN\nursinghome\pages\admin\dashboard\index.tsx */"./pages/admin/dashboard/index.tsx");
+module.exports = __webpack_require__(/*! E:\nursinghome_github\pages\admin\dashboard\index.tsx */"./pages/admin/dashboard/index.tsx");
 
 
 /***/ }),

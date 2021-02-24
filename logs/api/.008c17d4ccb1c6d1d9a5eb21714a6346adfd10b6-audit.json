@@ -1,0 +1,14 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 30
+    },
+    "auditLog": "E:\\nursinghome_github\\logs\\api\\.008c17d4ccb1c6d1d9a5eb21714a6346adfd10b6-audit.json",
+    "files": [
+        {
+            "date": 1614180556788,
+            "name": "E:\\nursinghome_github\\logs\\api\\2021-02-24-error.log",
+            "hash": "3eab6ca17a02613b8dc675f9e123753e"
+        }
+    ]
+}
