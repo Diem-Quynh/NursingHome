@@ -1,0 +1,8 @@
+{
+  "form": {
+    "required": "required!"
+  },
+  "createSuccess": "Add new data successfully.",
+  "updateSuccess": "Update data successfully.",
+  "deleteSuccess": "delete data successfully."
+}

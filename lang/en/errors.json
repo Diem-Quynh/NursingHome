@@ -1,0 +1,10 @@
+{
+  "7000": "Username or password is incorrect",
+  "7001": "Username already exists",
+  "7002": "Data not found",
+  "9995": "Database error",
+  "9996": "Invalid parameters",
+  "9997": "No permissions",
+  "9998": "Authentication required",
+  "9999": "unknown error"
+}

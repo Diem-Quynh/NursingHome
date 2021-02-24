@@ -1,0 +1,16 @@
+{
+  "7000": "Tài khoản hoặc mật khẩu không đúng",
+  "7001": "Tài khoản đã tồn tại",
+  "7002": "Dữ liệu đã tồn tại",
+  "7003": "Dữ liệu không đúng",
+  "7004": "Dữ liệu không tồn tại",
+  "7005": "Dữ liệu đã khóa và khổng thể thay đổi",
+  "7006": "Dữ liệu bắt buộc",
+  "7007": "Lỗi ràng buộc dữ liệu",
+  "7008": "Không có quyền",
+  "9995": "Lỗi cơ sở dữ liệu",
+  "9996": "Sai parameters",
+  "9997": "Không có quyền truy cập",
+  "9998": "Yêu cầu đăng nhập",
+  "9999": "Lỗi không xác định"
+}

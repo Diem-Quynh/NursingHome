@@ -1,0 +1,137 @@
+{
+	"action": "Tác vụ",
+	"admincp": "Phần mềm quản lý viện dưỡng lão",
+	"doctor": "Bác sỹ",
+	"nurse": "Hộ lý",
+	"employee": "Nhân viên",
+	"patient": "Bệnh nhân",
+	"room": "Phòng bệnh",
+	"bed": "Giường bệnh",
+	"group": "Nhóm nhân viên",
+	"code": "Mã số",
+	"birthday": "Ngày sinh",
+	"gender": "Giới tính",
+	"male": "Nam",
+	"female": "Nữ",
+	"cardId": "Số CMND",
+	"email": "Email",
+	"name": "Tên",
+	"fullname": "Họ tên",
+	"phone": "Số điện thoại",
+	"province": "Địa phương",
+	"address": "Địa chỉ",
+	"password": "Mật khẩu",
+	"rePassword": "Nhập lại mật khẩu",
+	"oldPassword": "Mật khẩu cũ",
+	"username": "Tên tài khoản",
+	"userGroup": "Nhóm tài khoản",
+	"position": "Vị trí",
+	"note": "Ghi chú",
+	"description": "Mô tả",
+	"back": "Quay lại",
+	"cancel": "Hủy bỏ",
+	"create": "Thêm",
+	"delete": "Xóa",
+	"edit": "Sửa",
+	"view": "Xem",
+	"search": "Tìm kiếm ...",
+	"update": "Đang cập nhật ...",
+	"send": "Gửi Tin",
+	"unknown": "Không rõ",
+	"deleteItem": "Xóa bản ghi",
+	"changePassword": "Đổi mật khẩu",
+	"yes": "Có",
+	"no": "Không",
+	"or": "hoặc",
+	"noData": "Không có dữ liệu",
+	"submit": "Lưu lại",
+	"statistic": "Thống kê",
+	"form": {
+		"required": "Vui lòng nhập dữ liệu!",
+		"maxLength": "Độ dài tối đa {{length}} ký tự",
+		"minLength": "Độ dài tối thiểu {{length}} ký tự",
+		"gte": "Giá trị phải lớn hơn hoặc bằng {{min}}",
+		"gt": "Giá trị phải lớn hơn {{min}}",
+		"lte": "Giá trị phải nhỏ hơn hoặc bằng {{max}}",
+		"lt": "Giá trị phải nhỏ hơn {{max}}",
+		"rePassword": "Mật khẩu không trùng khớp",
+		"number": "Vui lòng nhập số!",
+		"email": "Vui lòng nhập đúng định dạng email",
+		"fillUsername": "Hãy điền username",
+		"fillPassword": "Hãy điền password"
+	},
+	"hi": "Hi, {{username}}",
+	"hide": "Ẩn",
+	"message": {
+		"recordCreated": "Dữ liệu đã được tạo mới",
+		"recordUpdated": "Dữ liệu đã được cập nhật thành công",
+		"recordDeleted": "Dữ liệu đã bị xóa bỏ thành công",
+		"loginSuccess": "Đăng nhập hệ thống thành công",
+		"loginFailed": "Đăng nhập thất bại",
+		"deleteConfirm": "Bạn có chắc chắn muốn xóa bản ghi này?",
+		"signoutConfirm": "Bạn muốn đăng xuất?"
+	},
+	"personalInfo": "Thông tin cá nhân",
+	"placeholder.name": "Nhập tên...",
+	"placeholderSlug": "Nhập Slug...",
+	"show": "Hiển thị",
+	"signin": "Đăng nhập",
+	"signout": "Đăng xuất",
+	"slug": "Slug",
+	"sort": "Sắp xếp",
+	"status": "Trạng thái",
+	"showHome": "Hiện ở Trang chủ",
+	"content": "Nội dung",
+	"thumbnail": "Ảnh đại diện",
+	"chooseImg": "Chọn ảnh",
+	"placeholder": {
+		"position": "Chọn chức vụ",
+		"room": "Nhập mã phòng và chọn phòng",
+		"bed": "Nhập mã phòng và chọn giường",
+		"user": "Nhập họ tên nhân viên và chọn nhân viên",
+		"patient": "Nhập họ tên bệnh nhân và chọn bệnh nhân",
+		"date": "YYYY-MM-DD",
+		"group": "Nhập tên nhóm và chọn nhóm",
+		"sort": "Thứ tự ưu tiên từ nhỏ tới lớn"
+	},
+	"userPermissions":{
+		"avalibleValue": "Giá trị khả dụng",
+		"key":"Khóa",
+		"name": "Tên quyền hạn"
+	},
+	"userGroups":{
+		"decentralization": "Phân quyền",
+		"add":"Thêm quyền"
+	},
+	"rooms": {
+		"bedNumber": "Số giường"
+	},
+	"beds": {
+		"empty": "Trống",
+		"full": "Có bệnh nhân",
+		"bedId": "Mã giường"
+	},
+	"patients": {
+		"medicalHistory": "Lịch sử bệnh án",
+		"dateIn": "Ngày vào viện",
+		"dateOut": "Ngày ra viện"
+	},
+	"doctorAssignments": {
+		"dateBegin": "Ngày bắt đầu",
+		"dateEnd": "Ngày kết thúc"
+	},
+	"nurseAssignments": {
+		"dateBegin": "Ngày bắt đầu",
+		"dateEnd": "Ngày kết thúc"
+	},
+	"healthStatuses": {
+		"date": "Ngày khám",
+		"weight": "Cân nặng",
+		"bloodPressure": "Huyết áp",
+		"upperIndex": "Chỉ số huyết áp trên",
+		"lowerIndex": "Chỉ số huyết áp dưới",
+		"bloodSugar": "Đường huyết",
+		"heartRate": "Nhịp tim"
+	}
+	
+}

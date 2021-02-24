@@ -1,0 +1,12 @@
+node_modules/
+.env
+.vscode
+.next
+logs
+package-lock.json
+yarn.lock
+publicRuntime.js
+.idea/
+themes/_routes.json
+dist
+temp

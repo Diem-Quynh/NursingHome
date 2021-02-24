@@ -1,0 +1,78 @@
+{
+    "frontend": {
+        "admin": {
+            "home": "Trang chủ",
+            "dashboard": {
+                "index": "Bảng trung tâm"
+            },
+            "adminsIndex": "Quản trị viên",
+            "assignment": "Phân công",
+            "statistic": "Thống kê",
+            "admins": {
+                "index": "Tài khoản quản trị",
+                "edit": "Sửa tài khoản quản trị",
+                "create": "Thêm tài khoản quản trị mới"
+            },
+            "adminGroups": {
+                "index": "Nhóm quản trị viên",
+                "create": "Thêm nhóm quản trị viên",
+                "edit": "Sửa nhóm quản trị viên",
+                "role": "Phân quyền nhóm quản trị viên"
+            },
+            "memberships": {
+                "index": "Gói dịch vụ",
+                "create": "Tạo gói dịch vụ",
+                "edit": "Sửa gói dịch vụ"
+            },
+            "rooms": {
+                "index": "Phòng bệnh",
+                "create": "Thêm phòng bệnh",
+                "edit": "Sửa phòng bệnh"
+            },
+            "beds": {
+                "index": "Giường bệnh",
+                "create": "Thêm giường bệnh",
+                "edit": "Sửa giường bệnh"
+            },
+            "patients": {
+                "index": "Bệnh nhân",
+                "create": "Thêm bệnh nhân",
+                "edit": "Sửa thông tin bệnh nhân"
+            },
+            "doctorAssignments": {
+                "index": "Bác sỹ",
+                "create": "Thêm lịch phân công bác sỹ",
+                "edit": "Sửa lịch phân công bác sỹ"
+            },
+            "nurseAssignments": {
+                "index": "Hộ lý",
+                "create": "Thêm lịch phân công hộ lý",
+                "edit": "Sửa lịch phân công hộ lý"
+            },
+            "healthStatuses": {
+                "index": "Theo dõi sức khỏe",
+                "create": "Thêm kết quả kiểm tra sức khỏe",
+                "edit": "Sửa kết quả kiểm tra sức khỏe"
+            },
+            "users": {
+                "index": "Nhân viên",
+                "edit": "Sửa thông tin nhân viên",
+                "create": "Thêm nhân viên mới"
+            },
+            "userGroups": {
+                "index": "Nhóm nhân viên",
+                "create": "Thêm nhóm nhân viên",
+                "edit": "Sửa nhóm nhân viên",
+                "role": "Phân quyền nhóm nhân viên"
+            },
+            "userPermissions": {
+                "index": "Quyền hạn",
+                "create": "Thêm quyền hạn",
+                "edit": "Sửa thông tin quyền hạn"
+            },
+            "statistics": {
+                "healthStatus": "Sức khỏe bệnh nhân"
+            }
+        }
+    }
+}

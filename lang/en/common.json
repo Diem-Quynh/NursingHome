@@ -1,0 +1,32 @@
+{
+    "personalInfo": "Thông tin cá nhân",
+    "email": "Email",
+    "name": "Tên",
+    "password": "Mật khẩu",
+    "rePassword": "Nhập lại mật khẩu",
+    "username": "Username",
+    "birthday": "Ngày sinh",
+    "province": "Địa phương",
+    "phone": "Số điện thoại",
+    "code": "Mã số",
+    "signin": "Sign In",
+    "categories": "Danh mục",
+    "description": "Mô tả",
+    "action": "Hành động",
+    "edit": "Sửa",
+    "delete": "Xóa",
+    "create": "Thêm",
+    "submit": "Lưu lại",
+    "cancel": "Hủy bỏ",
+    "back": "Quay lại",
+    "deleteItem": "Xóa bản ghi",
+    "deleteConfirm": "Bạn có chắc chắn muốn xóa bản ghi này?",
+    "login_system": "Đăng nhập hệ thống",
+    "createSuccess": "Add new data successfully.",
+    "updateSuccess": "Update data successfully.",
+    "deleteSuccess": "delete data successfully.",
+
+    "form": {
+      "required": "required!"
+    }
+}

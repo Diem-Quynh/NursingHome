@@ -1,0 +1,42 @@
+{
+  "compilerOptions": {
+    "module": "esnext",
+    "target": "es6",
+    "allowJs": true,
+    "checkJs": false,
+    "jsx": "preserve",
+    "outDir": "./build",
+    "rootDir": "./",
+    "removeComments": true,
+    "noEmit": true,
+    "pretty": true,
+    "skipLibCheck": true,
+    "strict": true,
+    "moduleResolution": "node",
+    "esModuleInterop": true,
+    "lib": [
+      "dom",
+      "dom.iterable",
+      "esnext"
+    ],
+    "forceConsistentCasingInFileNames": true,
+    "resolveJsonModule": true,
+    "isolatedModules": true,
+    "baseUrl": ".",
+    "paths": {
+        "themes/*": ["themes/*"],
+        "@root/*": ["./*"],
+        "@core/*": ["./libs/core/Modules/*"],
+        "@app/*": ["./app/*"],
+        "@config/*": ["./config/*"],
+        "@themes/*": ["./themes/*"],
+        "@public/*": ["./public/*"]
+    }
+  },
+  "include": [
+    "./**/*"
+  ],
+  "exclude": [
+    "node_modules"
+  ]
+}

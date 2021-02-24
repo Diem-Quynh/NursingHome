@@ -1,0 +1,150 @@
+{
+  "errors": {
+    "403": {
+      "title": "Không có quyền truy cập",
+      "description": "Xin lỗi, bạn không có quyền truy cập vào trang này.",
+      "detail": "Trang này yêu cầu quyền: ",
+      "permissionDetail": "\"{{permission}}\" với giá trị: \"{{requirePermission}}\" nhưng bạn có: \"{{userPermission}}\", "
+    }
+  },
+  "users": {
+    "index": {
+      "title": "Danh sách nhân viên",
+      "description": "Theo dõi toàn bộ tài khoản nhân viên, có thể tạo mới và chỉnh sửa các thông tin"
+    },
+    "create": {
+      "title": "Tạo tài khoản nhân viên mới",
+      "description": "Điền đầy đủ thông tin để tạo tài khoản mới cho nhân viên"
+    },
+    "edit":{
+      "title": "Sửa tài khoản nhân viên",
+      "description":"Có thể chỉnh sửa toàn bộ thông tin tài khoản, lập lại mật khẩu,..."
+    }
+  },
+  "userGroups": {
+    "index": {
+      "title": "Danh sách nhóm nhân viên",
+      "description": "Nhân viên của viện dưỡng lão có thể được chia theo từng nhóm và có quyền hạn khác nhau. Ví dụ: Quản lý, bác sỹ, ..."
+    },
+    "create": {
+      "title": "Tạo nhóm mới",
+      "description": "Bạn có thể thêm một nhóm nhân viên mới và lựa chọn quyền hạn phù hợp cho họ. Hãy điền thông tin và chọn quyền hạn ở phía dưới."
+    },
+    "edit": {
+      "title": "Sửa nhóm nhân viên",
+      "description": "Có thể sửa tên nhóm, mô tả nhóm và phân quyền cho nhóm nhân viên sử dụng các chức năng phù hợp"
+    },
+    "role": {
+      "title":"Phân quyền cho nhóm nhân viên",
+      "description":"Chọn quyền phù hợp cho nhóm nhân viên. Lưu ý: Quyền Root là quyền sử dụng toàn bộ các chức năng của hệ thống"
+    }
+  },
+  "userPermissions": {
+    "index": {
+      "title": "Danh sách quyền hạn",
+      "description": "Nhân viên của viện dưỡng lão có thể được chia theo từng nhóm và có quyền hạn khác nhau. Ví dụ: Quản lý, bác sỹ, ..."
+    },
+    "create": {
+      "title": "Thêm quyền hạn mới",
+      "description": "Bạn có thể thêm một quyền hạn mới và phân quyền hạn phù hợp cho nhân viên sử dụng các chức năng."
+    },
+    "edit": {
+      "title": "Sửa quyền hạn",
+      "description": "Bạn có thể sửa thông tin quyền hạn trong hệ thống cho phù hợp."
+    }
+  },
+  "home": {
+    "title": "Bảng trung tâm",
+    "description": "Theo dõi quản lý thông tin viện dưỡng lão"
+  },
+  "rooms": {
+    "index": {
+      "title":"Danh sách phòng bệnh",
+      "description":"Theo dõi toàn bộ phòng bệnh, có thể tạo mới và chỉnh sửa các thông tin"
+    },
+    "edit":{
+      "title":"Sửa thông tin phòng bệnh",
+      "description":"Chỉnh sửa thông tin phòng bệnh trong hệ thống"
+    },
+    "create": {
+      "title":"Thêm phòng bệnh mới",
+      "description":"Nhập thông tin để thêm phòng bệnh mới vào hệ thống"
+    }
+  },
+  "beds": {
+    "index": {
+      "title":"Danh sách giường bệnh",
+      "description":"Theo dõi toàn bộ giường bệnh, có thể tạo mới và chỉnh sửa các thông tin"
+    },
+    "edit":{
+      "title":"Sửa thông tin giường bệnh",
+      "description":"Chỉnh sửa thông tin giường bệnh trong hệ thống"
+    },
+    "create": {
+      "title":"Thêm giường bệnh mới",
+      "description":"Nhập thông tin để thêm giường bệnh mới vào hệ thống"
+    }
+  },
+  "patients": {
+    "index": {
+      "title":"Danh sách bệnh nhân",
+      "description":"Theo dõi toàn bộ bệnh nhân, có thể tạo mới và chỉnh sửa các thông tin"
+    },
+    "edit":{
+      "title":"Sửa thông tin bệnh nhân",
+      "description":"Chỉnh sửa thông tin bệnh nhân trong hệ thống"
+    },
+    "create": {
+      "title":"Thêm bệnh nhân mới",
+      "description":"Nhập thông tin để thêm bệnh nhân mới vào hệ thống"
+    }
+  },
+  "doctorAssignments": {
+    "index": {
+      "title":"Danh sách phân công bác sỹ phụ trách phòng bệnh",
+      "description":"Theo dõi toàn bộ lịch phân công, có thể tạo mới và chỉnh sửa các thông tin"
+    },
+    "edit":{
+      "title":"Sửa thông tin lịch phân công",
+      "description":"Chỉnh sửa thông tin lịch phân công trong hệ thống"
+    },
+    "create": {
+      "title":"Thêm lịch phân công mới",
+      "description":"Nhập thông tin để thêm lịch phân công mới vào hệ thống"
+    }
+  },
+  "nurseAssignments": {
+    "index": {
+      "title":"Danh sách phân công hộ lý phụ trách chăm sóc bệnh nhân",
+      "description":"Theo dõi toàn bộ lịch phân công, có thể tạo mới và chỉnh sửa các thông tin"
+    },
+    "edit":{
+      "title":"Sửa thông tin lịch phân công",
+      "description":"Chỉnh sửa thông tin lịch phân công trong hệ thống"
+    },
+    "create": {
+      "title":"Thêm lịch phân công mới",
+      "description":"Nhập thông tin để thêm lịch phân công mới vào hệ thống"
+    }
+  },
+  "healthStatuses": {
+    "index": {
+      "title":"Danh sách kết quả kiểm tra sức khỏe bệnh nhân",
+      "description":"Theo dõi toàn bộ kết quả kiểm tra sức khỏe bệnh nhân, có thể tạo mới và chỉnh sửa các thông tin"
+    },
+    "edit":{
+      "title":"Sửa thông tin kiểm tra sức khỏe của bệnh nhân",
+      "description":"Chỉnh sửa thông tin kiểm tra sức khỏe của bệnh nhân trong hệ thống"
+    },
+    "create": {
+      "title":"Thêm kết quả kiểm tra sức khỏe của bệnh nhân",
+      "description":"Nhập thông tin để thêm kết quả kiểm tra sức khỏe của bệnh nhân vào hệ thống"
+    }
+  },
+  "statistics": {
+    "healthStatus": {
+      "title":"Theo dõi sức khỏe bệnh nhân",
+      "description":"Theo dõi sự thay đổi các chỉ số sức khỏe của bệnh nhân"
+    }
+  }
+}

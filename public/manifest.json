@@ -1,0 +1,13 @@
+{
+    "manifest_version": 2,
+    "name": "Nursing Home Management",
+    "start_url": "/login",
+    "display": "standalone",
+    "orientation": "landscape",
+    "scope": "/",
+    "icons": [{
+        "src": "/logo/nursing-home-icon.png",
+        "sizes": "420x420",
+        "type": "image/png"
+      }]
+}

@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+      "target": "esnext",
+      "module": "commonjs",
+      "baseUrl": "./",
+      "paths": {
+        "@root/*": ["./*"],
+        "@core/*": ["./libs/core/Modules/*"],
+        "@app/*": ["./app/*"],
+        "@config/*": ["./config/*"],
+        "@themes/*": ["./themes/*"],
+        "@public/*": ["./public/*"]
+      }
+  },
+  "exclude": [
+      "node_modules",
+      "**/node_modules/*"
+  ]
+}
