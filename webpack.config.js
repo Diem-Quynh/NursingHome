@@ -50,11 +50,7 @@ module.exports = {
                         "plugins": ["@babel/plugin-proposal-object-rest-spread", "@babel/plugin-proposal-class-properties"]
                     }
                 }
-            },
-            { 
-                test: /\.ts$/, 
-                use: 'ts-loader', exclude: /node_modules/ 
-            },
+            }
         ]
     },
     resolve: {

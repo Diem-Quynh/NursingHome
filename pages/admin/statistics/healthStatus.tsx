@@ -7,7 +7,7 @@ import _ from 'lodash';
 import to from 'await-to-js'
 import useBaseHook from 'themes/hooks/BaseHooks'
 import { RightCircleFilled } from '@ant-design/icons';
-import { TimelineChart } from 'ant-design-pro/lib/Charts';
+// import { TimelineChart } from 'ant-design-pro/lib/Charts';
 // import {ResponsiveContainer, LineChart, Line, XAxis, YAxis, CartesianGrid, Tooltip, Legend} from 'recharts';
 const { RangePicker } = DatePicker;
 import moment from 'moment'
@@ -141,7 +141,7 @@ const Statistic = ({ patients }: { patients: Patient[] }) => {
           </Button>
         </Form.Item>
       </Form>
-      <TimelineChart height={200} data={bloodPressure} titleMap={{ y1: t('healthStatuses.upperIndex'), y2: t('healthStatuses.lowerIndex') }} />
+      {/* <TimelineChart height={200} data={bloodPressure} titleMap={{ y1: t('healthStatuses.upperIndex'), y2: t('healthStatuses.lowerIndex') }} /> */}
       {/* {renderChartBloodPressure()} */}
 
       {/* <LineChart width={600} height={300} data={data}
