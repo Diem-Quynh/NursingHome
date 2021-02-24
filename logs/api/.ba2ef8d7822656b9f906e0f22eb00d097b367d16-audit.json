@@ -1,0 +1,14 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 30
+    },
+    "auditLog": "E:\\DATN\\salonadmin\\logs\\api\\.ba2ef8d7822656b9f906e0f22eb00d097b367d16-audit.json",
+    "files": [
+        {
+            "date": 1594050384258,
+            "name": "E:\\DATN\\salonadmin\\logs\\api\\2020-07-06-error.log",
+            "hash": "669ca0a2cde446ad617a80469c071d42"
+        }
+    ]
+}

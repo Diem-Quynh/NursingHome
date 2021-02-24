@@ -1,0 +1,19 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 30
+    },
+    "auditLog": "E:\\BaoHoang\\salonadmin\\logs\\api\\.fdfdc73e8944a0aa4fceb237985b2a3338a234a2-audit.json",
+    "files": [
+        {
+            "date": 1587439131630,
+            "name": "E:\\BaoHoang\\salonadmin\\logs\\api\\2020-04-21-info.log",
+            "hash": "a6fbcd71ca34c0025d374d4ae9539eea"
+        },
+        {
+            "date": 1587520813576,
+            "name": "E:\\BaoHoang\\salonadmin\\logs\\api\\2020-04-22-info.log",
+            "hash": "dbdfb16dd11aa6fce38cd3af4a43fc64"
+        }
+    ]
+}

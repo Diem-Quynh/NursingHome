@@ -1,0 +1,14 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 30
+    },
+    "auditLog": "E:\\DATN\\nursinghome\\logs\\api\\.ef6b22804a7130320fbf24be4c0b144e94c7054b-audit.json",
+    "files": [
+        {
+            "date": 1614149045258,
+            "name": "E:\\DATN\\nursinghome\\logs\\api\\2021-02-24-info.log",
+            "hash": "6cde25e4d8ab3863de38ef3f57283891"
+        }
+    ]
+}
