@@ -110,5 +110,9 @@
     "@config": "./config",
     "@themes": "./themes",
     "@public": "./public"
+  },
+  "engines": {
+    "node": "0.8.x",
+    "npm": "1.2.x"
   }
 }
