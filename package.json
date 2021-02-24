@@ -112,7 +112,8 @@
     "@public": "./public"
   },
   "engines": {
-    "node": "0.8.x",
-    "npm": "1.2.x"
+    "node": "12.14.x",
+    "npm": "6.13.x",
+    "yarn": "1.21.x"
   }
 }
