@@ -60,8 +60,8 @@ class Server {
         if (process.env.MODE == "dev-client") {
           this.preBuildClient()
         }
-        http.listen(port, config.HOST, () => {
-          console.log(`server stated: ${config.HOST}:${port}`);
+        http.listen(port, () => {
+          console.log(`server stated: ${port}`);
           resolve({ http, express, next: Server.nextApp })
         })
       }
