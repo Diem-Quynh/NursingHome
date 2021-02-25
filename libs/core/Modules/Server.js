@@ -60,7 +60,7 @@ class Server {
         if (process.env.MODE == "dev-client") {
           this.preBuildClient()
         }
-        http.listen(port, () => {
+        http.listen(port || 3000, () => {
           console.log(`server stated: ${port}`);
           resolve({ http, express, next: Server.nextApp })
         })
