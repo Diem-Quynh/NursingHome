@@ -82,6 +82,8 @@ Route.group(() => {
 
 }).prefix('/admin').name("frontend.admin").middleware([AuthAdminMiddleware])
 
+Route.get("/", "pages/admin/dashboard")
+
 /*
 Route.group(() => {
   const name = 'users'
